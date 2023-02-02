@@ -1,0 +1,60 @@
+{
+  "userdata": [
+    {
+      "name": "mayank",
+      "age": "21",
+      "gender": "male",
+      "country": "ind",
+      "profession": "",
+      "id": 1
+    },
+    {
+      "name": "mayank",
+      "age": "21",
+      "gender": "male",
+      "country": "ind",
+      "profession": "",
+      "id": 2
+    },
+    {
+      "name": "mayank",
+      "age": "21",
+      "gender": "male",
+      "country": "ind",
+      "profession": "",
+      "id": 3
+    },
+    {
+      "name": "mayank",
+      "age": "21",
+      "gender": "male",
+      "country": "ind",
+      "profession": "",
+      "id": 4
+    },
+    {
+      "name": "mayank",
+      "age": "21",
+      "gender": "male",
+      "country": "ind",
+      "profession": "",
+      "id": 5
+    },
+    {
+      "name": "mayank",
+      "age": "21",
+      "gender": "male",
+      "country": "ind",
+      "profession": "employed",
+      "id": 6
+    },
+    {
+      "name": "mayank",
+      "age": "21",
+      "gender": "male",
+      "country": "ind",
+      "profession": "employed",
+      "id": 7
+    }
+  ]
+}
